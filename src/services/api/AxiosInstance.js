@@ -17,7 +17,9 @@ instance.interceptors.response.use(
   },
 )
 
-export const instance
+export {
+  instance
+}
   
 
   
