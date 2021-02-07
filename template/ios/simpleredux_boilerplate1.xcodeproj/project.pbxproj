@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* simpleredux_boilerplate1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* simpleredux_boilerplate1Tests.m */; };
+		00E356F31AD99517003FC87E /* projectNameTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* projectNameTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* simpleredux_boilerplate1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* simpleredux_boilerplate1Tests.m */; };
-		5C4968B01ABF7FAAA2A350F7 /* libPods-simpleredux_boilerplate1.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 90AF271152073FA1ADAF7346 /* libPods-simpleredux_boilerplate1.a */; };
-		5D4A26001AA936A34AE941F0 /* libPods-simpleredux_boilerplate1-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 15F476B69897BD13593D5B8B /* libPods-simpleredux_boilerplate1-tvOS.a */; };
+		2DCD954D1E0B4F2C00145EB5 /* projectNameTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* projectNameTests.m */; };
+		5C4968B01ABF7FAAA2A350F7 /* libPods-projectName.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 90AF271152073FA1ADAF7346 /* libPods-projectName.a */; };
+		5D4A26001AA936A34AE941F0 /* libPods-projectName-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 15F476B69897BD13593D5B8B /* libPods-projectName-tvOS.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		9E98AB893870E32F0397A194 /* libPods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E868E1DCA011C23E4A31C27 /* libPods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests.a */; };
-		EB3F39DF5BE73C097324B96F /* libPods-simpleredux_boilerplate1-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 62C5C3CF038A567CECF25099 /* libPods-simpleredux_boilerplate1-tvOSTests.a */; };
+		9E98AB893870E32F0397A194 /* libPods-projectName-projectNameTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E868E1DCA011C23E4A31C27 /* libPods-projectName-projectNameTests.a */; };
+		EB3F39DF5BE73C097324B96F /* libPods-projectName-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 62C5C3CF038A567CECF25099 /* libPods-projectName-tvOSTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,45 +28,45 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = simpleredux_boilerplate1;
+			remoteInfo = projectName;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "simpleredux_boilerplate1-tvOS";
+			remoteInfo = "projectName-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* simpleredux_boilerplate1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = simpleredux_boilerplate1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* projectNameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = projectNameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* simpleredux_boilerplate1Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = simpleredux_boilerplate1Tests.m; sourceTree = "<group>"; };
-		0BA85F1A36FDCFE26B025B2A /* Pods-simpleredux_boilerplate1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-simpleredux_boilerplate1.release.xcconfig"; path = "Target Support Files/Pods-simpleredux_boilerplate1/Pods-simpleredux_boilerplate1.release.xcconfig"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* simpleredux_boilerplate1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = simpleredux_boilerplate1.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = simpleredux_boilerplate1/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = simpleredux_boilerplate1/AppDelegate.m; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = simpleredux_boilerplate1/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = simpleredux_boilerplate1/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = simpleredux_boilerplate1/main.m; sourceTree = "<group>"; };
-		15F476B69897BD13593D5B8B /* libPods-simpleredux_boilerplate1-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-simpleredux_boilerplate1-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E47B1E0B4A5D006451C7 /* simpleredux_boilerplate1-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "simpleredux_boilerplate1-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* simpleredux_boilerplate1-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "simpleredux_boilerplate1-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5E868E1DCA011C23E4A31C27 /* libPods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		62C5C3CF038A567CECF25099 /* libPods-simpleredux_boilerplate1-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-simpleredux_boilerplate1-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = simpleredux_boilerplate1/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		87F320ABEA261BF10E16565C /* Pods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests.debug.xcconfig"; path = "Target Support Files/Pods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests/Pods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		90AF271152073FA1ADAF7346 /* libPods-simpleredux_boilerplate1.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-simpleredux_boilerplate1.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		941E435C6E9D39D8FFB01919 /* Pods-simpleredux_boilerplate1-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-simpleredux_boilerplate1-tvOS.release.xcconfig"; path = "Target Support Files/Pods-simpleredux_boilerplate1-tvOS/Pods-simpleredux_boilerplate1-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		C6614C5CEE0AB401F508D4D3 /* Pods-simpleredux_boilerplate1-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-simpleredux_boilerplate1-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-simpleredux_boilerplate1-tvOSTests/Pods-simpleredux_boilerplate1-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		DC7EB1361EB3CD97712423AB /* Pods-simpleredux_boilerplate1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-simpleredux_boilerplate1.debug.xcconfig"; path = "Target Support Files/Pods-simpleredux_boilerplate1/Pods-simpleredux_boilerplate1.debug.xcconfig"; sourceTree = "<group>"; };
-		DCF79B30E42C6D069963F5DF /* Pods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests.release.xcconfig"; path = "Target Support Files/Pods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests/Pods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests.release.xcconfig"; sourceTree = "<group>"; };
-		EC5FB6C283F4F71BECDBE659 /* Pods-simpleredux_boilerplate1-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-simpleredux_boilerplate1-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-simpleredux_boilerplate1-tvOSTests/Pods-simpleredux_boilerplate1-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* projectNameTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = projectNameTests.m; sourceTree = "<group>"; };
+		0BA85F1A36FDCFE26B025B2A /* Pods-projectName.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-projectName.release.xcconfig"; path = "Target Support Files/Pods-projectName/Pods-projectName.release.xcconfig"; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* projectName.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = projectName.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = projectName/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = projectName/AppDelegate.m; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = projectName/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = projectName/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = projectName/main.m; sourceTree = "<group>"; };
+		15F476B69897BD13593D5B8B /* libPods-projectName-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-projectName-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E47B1E0B4A5D006451C7 /* projectName-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "projectName-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* projectName-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "projectName-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E868E1DCA011C23E4A31C27 /* libPods-projectName-projectNameTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-projectName-projectNameTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		62C5C3CF038A567CECF25099 /* libPods-projectName-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-projectName-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = projectName/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		87F320ABEA261BF10E16565C /* Pods-projectName-projectNameTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-projectName-projectNameTests.debug.xcconfig"; path = "Target Support Files/Pods-projectName-projectNameTests/Pods-projectName-projectNameTests.debug.xcconfig"; sourceTree = "<group>"; };
+		90AF271152073FA1ADAF7346 /* libPods-projectName.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-projectName.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		941E435C6E9D39D8FFB01919 /* Pods-projectName-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-projectName-tvOS.release.xcconfig"; path = "Target Support Files/Pods-projectName-tvOS/Pods-projectName-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		C6614C5CEE0AB401F508D4D3 /* Pods-projectName-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-projectName-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-projectName-tvOSTests/Pods-projectName-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		DC7EB1361EB3CD97712423AB /* Pods-projectName.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-projectName.debug.xcconfig"; path = "Target Support Files/Pods-projectName/Pods-projectName.debug.xcconfig"; sourceTree = "<group>"; };
+		DCF79B30E42C6D069963F5DF /* Pods-projectName-projectNameTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-projectName-projectNameTests.release.xcconfig"; path = "Target Support Files/Pods-projectName-projectNameTests/Pods-projectName-projectNameTests.release.xcconfig"; sourceTree = "<group>"; };
+		EC5FB6C283F4F71BECDBE659 /* Pods-projectName-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-projectName-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-projectName-tvOSTests/Pods-projectName-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
-		EEF7B482F427236932779960 /* Pods-simpleredux_boilerplate1-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-simpleredux_boilerplate1-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-simpleredux_boilerplate1-tvOS/Pods-simpleredux_boilerplate1-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		EEF7B482F427236932779960 /* Pods-projectName-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-projectName-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-projectName-tvOS/Pods-projectName-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9E98AB893870E32F0397A194 /* libPods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests.a in Frameworks */,
+				9E98AB893870E32F0397A194 /* libPods-projectName-projectNameTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,7 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5C4968B01ABF7FAAA2A350F7 /* libPods-simpleredux_boilerplate1.a in Frameworks */,
+				5C4968B01ABF7FAAA2A350F7 /* libPods-projectName.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -90,7 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5D4A26001AA936A34AE941F0 /* libPods-simpleredux_boilerplate1-tvOS.a in Frameworks */,
+				5D4A26001AA936A34AE941F0 /* libPods-projectName-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,20 +98,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EB3F39DF5BE73C097324B96F /* libPods-simpleredux_boilerplate1-tvOSTests.a in Frameworks */,
+				EB3F39DF5BE73C097324B96F /* libPods-projectName-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* simpleredux_boilerplate1Tests */ = {
+		00E356EF1AD99517003FC87E /* projectNameTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* simpleredux_boilerplate1Tests.m */,
+				00E356F21AD99517003FC87E /* projectNameTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = simpleredux_boilerplate1Tests;
+			path = projectNameTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -122,7 +122,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* simpleredux_boilerplate1 */ = {
+		13B07FAE1A68108700A75B9A /* projectName */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -133,7 +133,7 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = simpleredux_boilerplate1;
+			name = projectName;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -141,10 +141,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				90AF271152073FA1ADAF7346 /* libPods-simpleredux_boilerplate1.a */,
-				5E868E1DCA011C23E4A31C27 /* libPods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests.a */,
-				15F476B69897BD13593D5B8B /* libPods-simpleredux_boilerplate1-tvOS.a */,
-				62C5C3CF038A567CECF25099 /* libPods-simpleredux_boilerplate1-tvOSTests.a */,
+				90AF271152073FA1ADAF7346 /* libPods-projectName.a */,
+				5E868E1DCA011C23E4A31C27 /* libPods-projectName-projectNameTests.a */,
+				15F476B69897BD13593D5B8B /* libPods-projectName-tvOS.a */,
+				62C5C3CF038A567CECF25099 /* libPods-projectName-tvOSTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -159,9 +159,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* simpleredux_boilerplate1 */,
+				13B07FAE1A68108700A75B9A /* projectName */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* simpleredux_boilerplate1Tests */,
+				00E356EF1AD99517003FC87E /* projectNameTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				C45FAC30C5D6EF5509785A0F /* Pods */,
@@ -174,10 +174,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* simpleredux_boilerplate1.app */,
-				00E356EE1AD99517003FC87E /* simpleredux_boilerplate1Tests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* simpleredux_boilerplate1-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* simpleredux_boilerplate1-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* projectName.app */,
+				00E356EE1AD99517003FC87E /* projectNameTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* projectName-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* projectName-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -185,14 +185,14 @@
 		C45FAC30C5D6EF5509785A0F /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				DC7EB1361EB3CD97712423AB /* Pods-simpleredux_boilerplate1.debug.xcconfig */,
-				0BA85F1A36FDCFE26B025B2A /* Pods-simpleredux_boilerplate1.release.xcconfig */,
-				87F320ABEA261BF10E16565C /* Pods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests.debug.xcconfig */,
-				DCF79B30E42C6D069963F5DF /* Pods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests.release.xcconfig */,
-				EEF7B482F427236932779960 /* Pods-simpleredux_boilerplate1-tvOS.debug.xcconfig */,
-				941E435C6E9D39D8FFB01919 /* Pods-simpleredux_boilerplate1-tvOS.release.xcconfig */,
-				EC5FB6C283F4F71BECDBE659 /* Pods-simpleredux_boilerplate1-tvOSTests.debug.xcconfig */,
-				C6614C5CEE0AB401F508D4D3 /* Pods-simpleredux_boilerplate1-tvOSTests.release.xcconfig */,
+				DC7EB1361EB3CD97712423AB /* Pods-projectName.debug.xcconfig */,
+				0BA85F1A36FDCFE26B025B2A /* Pods-projectName.release.xcconfig */,
+				87F320ABEA261BF10E16565C /* Pods-projectName-projectNameTests.debug.xcconfig */,
+				DCF79B30E42C6D069963F5DF /* Pods-projectName-projectNameTests.release.xcconfig */,
+				EEF7B482F427236932779960 /* Pods-projectName-tvOS.debug.xcconfig */,
+				941E435C6E9D39D8FFB01919 /* Pods-projectName-tvOS.release.xcconfig */,
+				EC5FB6C283F4F71BECDBE659 /* Pods-projectName-tvOSTests.debug.xcconfig */,
+				C6614C5CEE0AB401F508D4D3 /* Pods-projectName-tvOSTests.release.xcconfig */,
 			);
 			name = Pods;
 			path = Pods;
@@ -201,9 +201,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* simpleredux_boilerplate1Tests */ = {
+		00E356ED1AD99517003FC87E /* projectNameTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "simpleredux_boilerplate1Tests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "projectNameTests" */;
 			buildPhases = (
 				247E338A3D36EA266308E3CA /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -216,14 +216,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = simpleredux_boilerplate1Tests;
-			productName = simpleredux_boilerplate1Tests;
-			productReference = 00E356EE1AD99517003FC87E /* simpleredux_boilerplate1Tests.xctest */;
+			name = projectNameTests;
+			productName = projectNameTests;
+			productReference = 00E356EE1AD99517003FC87E /* projectNameTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* simpleredux_boilerplate1 */ = {
+		13B07F861A680F5B00A75B9A /* projectName */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "simpleredux_boilerplate1" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "projectName" */;
 			buildPhases = (
 				BEC410A39DEF7D031884FA21 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -237,14 +237,14 @@
 			);
 			dependencies = (
 			);
-			name = simpleredux_boilerplate1;
-			productName = simpleredux_boilerplate1;
-			productReference = 13B07F961A680F5B00A75B9A /* simpleredux_boilerplate1.app */;
+			name = projectName;
+			productName = projectName;
+			productReference = 13B07F961A680F5B00A75B9A /* projectName.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* simpleredux_boilerplate1-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* projectName-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "simpleredux_boilerplate1-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "projectName-tvOS" */;
 			buildPhases = (
 				CC4F6D8EBB533EA1E1A62EC7 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -257,14 +257,14 @@
 			);
 			dependencies = (
 			);
-			name = "simpleredux_boilerplate1-tvOS";
-			productName = "simpleredux_boilerplate1-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* simpleredux_boilerplate1-tvOS.app */;
+			name = "projectName-tvOS";
+			productName = "projectName-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* projectName-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* simpleredux_boilerplate1-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* projectName-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "simpleredux_boilerplate1-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "projectName-tvOSTests" */;
 			buildPhases = (
 				53FE989C97425ED8A7153CE7 /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -276,9 +276,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "simpleredux_boilerplate1-tvOSTests";
-			productName = "simpleredux_boilerplate1-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* simpleredux_boilerplate1-tvOSTests.xctest */;
+			name = "projectName-tvOSTests";
+			productName = "projectName-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* projectName-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -307,7 +307,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "simpleredux_boilerplate1" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "projectName" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -320,10 +320,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* simpleredux_boilerplate1 */,
-				00E356ED1AD99517003FC87E /* simpleredux_boilerplate1Tests */,
-				2D02E47A1E0B4A5D006451C7 /* simpleredux_boilerplate1-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* simpleredux_boilerplate1-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* projectName */,
+				00E356ED1AD99517003FC87E /* projectNameTests */,
+				2D02E47A1E0B4A5D006451C7 /* projectName-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* projectName-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -383,7 +383,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests/Pods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-projectName-projectNameTests/Pods-projectName-projectNameTests-resources.sh",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
@@ -392,7 +392,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests/Pods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-projectName-projectNameTests/Pods-projectName-projectNameTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		247E338A3D36EA266308E3CA /* [CP] Check Pods Manifest.lock */ = {
@@ -410,7 +410,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-projectName-projectNameTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -446,7 +446,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-simpleredux_boilerplate1-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-projectName-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -468,7 +468,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-simpleredux_boilerplate1-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-projectName-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -481,7 +481,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-simpleredux_boilerplate1/Pods-simpleredux_boilerplate1-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-projectName/Pods-projectName-resources.sh",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
@@ -490,7 +490,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-simpleredux_boilerplate1/Pods-simpleredux_boilerplate1-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-projectName/Pods-projectName-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		CC4F6D8EBB533EA1E1A62EC7 /* [CP] Check Pods Manifest.lock */ = {
@@ -508,7 +508,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-simpleredux_boilerplate1-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-projectName-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -560,7 +560,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* simpleredux_boilerplate1Tests.m in Sources */,
+				00E356F31AD99517003FC87E /* projectNameTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -586,7 +586,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* simpleredux_boilerplate1Tests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* projectNameTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -595,12 +595,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* simpleredux_boilerplate1 */;
+			target = 13B07F861A680F5B00A75B9A /* projectName */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* simpleredux_boilerplate1-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* projectName-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -608,14 +608,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 87F320ABEA261BF10E16565C /* Pods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests.debug.xcconfig */;
+			baseConfigurationReference = 87F320ABEA261BF10E16565C /* Pods-projectName-projectNameTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = simpleredux_boilerplate1Tests/Info.plist;
+				INFOPLIST_FILE = projectNameTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -625,17 +625,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/simpleredux_boilerplate1.app/simpleredux_boilerplate1";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/projectName.app/projectName";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DCF79B30E42C6D069963F5DF /* Pods-simpleredux_boilerplate1-simpleredux_boilerplate1Tests.release.xcconfig */;
+			baseConfigurationReference = DCF79B30E42C6D069963F5DF /* Pods-projectName-projectNameTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = simpleredux_boilerplate1Tests/Info.plist;
+				INFOPLIST_FILE = projectNameTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -645,19 +645,19 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/simpleredux_boilerplate1.app/simpleredux_boilerplate1";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/projectName.app/projectName";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DC7EB1361EB3CD97712423AB /* Pods-simpleredux_boilerplate1.debug.xcconfig */;
+			baseConfigurationReference = DC7EB1361EB3CD97712423AB /* Pods-projectName.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = simpleredux_boilerplate1/Info.plist;
+				INFOPLIST_FILE = projectName/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -665,7 +665,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = simpleredux_boilerplate1;
+				PRODUCT_NAME = projectName;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -674,12 +674,12 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0BA85F1A36FDCFE26B025B2A /* Pods-simpleredux_boilerplate1.release.xcconfig */;
+			baseConfigurationReference = 0BA85F1A36FDCFE26B025B2A /* Pods-projectName.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = simpleredux_boilerplate1/Info.plist;
+				INFOPLIST_FILE = projectName/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -687,7 +687,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = simpleredux_boilerplate1;
+				PRODUCT_NAME = projectName;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -695,7 +695,7 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EEF7B482F427236932779960 /* Pods-simpleredux_boilerplate1-tvOS.debug.xcconfig */;
+			baseConfigurationReference = EEF7B482F427236932779960 /* Pods-projectName-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -706,14 +706,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "simpleredux_boilerplate1-tvOS/Info.plist";
+				INFOPLIST_FILE = "projectName-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.simpleredux_boilerplate1-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.projectName-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -723,7 +723,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 941E435C6E9D39D8FFB01919 /* Pods-simpleredux_boilerplate1-tvOS.release.xcconfig */;
+			baseConfigurationReference = 941E435C6E9D39D8FFB01919 /* Pods-projectName-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -734,14 +734,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "simpleredux_boilerplate1-tvOS/Info.plist";
+				INFOPLIST_FILE = "projectName-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.simpleredux_boilerplate1-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.projectName-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -751,7 +751,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EC5FB6C283F4F71BECDBE659 /* Pods-simpleredux_boilerplate1-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = EC5FB6C283F4F71BECDBE659 /* Pods-projectName-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -761,24 +761,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "simpleredux_boilerplate1-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "projectName-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.simpleredux_boilerplate1-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.projectName-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/simpleredux_boilerplate1-tvOS.app/simpleredux_boilerplate1-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/projectName-tvOS.app/projectName-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C6614C5CEE0AB401F508D4D3 /* Pods-simpleredux_boilerplate1-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = C6614C5CEE0AB401F508D4D3 /* Pods-projectName-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -788,17 +788,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "simpleredux_boilerplate1-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "projectName-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.simpleredux_boilerplate1-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.projectName-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/simpleredux_boilerplate1-tvOS.app/simpleredux_boilerplate1-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/projectName-tvOS.app/projectName-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -919,7 +919,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "simpleredux_boilerplate1Tests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "projectNameTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -928,7 +928,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "simpleredux_boilerplate1" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "projectName" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -937,7 +937,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "simpleredux_boilerplate1-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "projectName-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -946,7 +946,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "simpleredux_boilerplate1-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "projectName-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -955,7 +955,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "simpleredux_boilerplate1" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "projectName" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

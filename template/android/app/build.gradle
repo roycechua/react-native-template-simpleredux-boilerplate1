@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.simpleredux_boilerplate1"
+        applicationId "com.projectName"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

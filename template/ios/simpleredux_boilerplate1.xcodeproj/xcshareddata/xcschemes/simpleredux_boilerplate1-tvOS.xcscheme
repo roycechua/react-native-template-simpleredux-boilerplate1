@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "simpleredux_boilerplate1-tvOS.app"
-               BlueprintName = "simpleredux_boilerplate1-tvOS"
-               ReferencedContainer = "container:simpleredux_boilerplate1.xcodeproj">
+               BuildableName = "projectName-tvOS.app"
+               BlueprintName = "projectName-tvOS"
+               ReferencedContainer = "container:projectName.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "simpleredux_boilerplate1-tvOSTests.xctest"
-               BlueprintName = "simpleredux_boilerplate1-tvOSTests"
-               ReferencedContainer = "container:simpleredux_boilerplate1.xcodeproj">
+               BuildableName = "projectName-tvOSTests.xctest"
+               BlueprintName = "projectName-tvOSTests"
+               ReferencedContainer = "container:projectName.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "simpleredux_boilerplate1-tvOS.app"
-            BlueprintName = "simpleredux_boilerplate1-tvOS"
-            ReferencedContainer = "container:simpleredux_boilerplate1.xcodeproj">
+            BuildableName = "projectName-tvOS.app"
+            BlueprintName = "projectName-tvOS"
+            ReferencedContainer = "container:projectName.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "simpleredux_boilerplate1-tvOS.app"
-            BlueprintName = "simpleredux_boilerplate1-tvOS"
-            ReferencedContainer = "container:simpleredux_boilerplate1.xcodeproj">
+            BuildableName = "projectName-tvOS.app"
+            BlueprintName = "projectName-tvOS"
+            ReferencedContainer = "container:projectName.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

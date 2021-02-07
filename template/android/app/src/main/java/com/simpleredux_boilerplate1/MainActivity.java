@@ -1,4 +1,4 @@
-package com.simpleredux_boilerplate1;
+package com.projectName;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "simpleredux_boilerplate1";
+    return "projectName";
   }
 }
