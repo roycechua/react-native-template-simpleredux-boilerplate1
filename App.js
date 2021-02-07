@@ -1,19 +1,13 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow strict-local
- */
-
 import React from 'react';
 import {
   SafeAreaView,
   StatusBar,
 } from 'react-native';
-import { store, persistor } from './src/redux/store';
+import redux from './src/redux/store';
 import { Provider } from 'react-redux';
 import { PersistGate } from 'redux-persist/integration/react'
+
+const {store, persistor} = redux();
 
 const App = () => {
   return (
