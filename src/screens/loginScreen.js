@@ -8,7 +8,7 @@ const Screen = ({ navigation }) => {
 
     return (
         <View style={styles.sampleStyle}>
-            <Text>Login Screen</Text>
+            <Text>Login Screen of HelloWorld</Text>
             <Button onPress={goToHomeScreen}>Go to Home Screen</Button>
         </View>
     )
