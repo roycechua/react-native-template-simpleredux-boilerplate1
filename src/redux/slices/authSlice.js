@@ -1,8 +1,8 @@
 import { createSlice } from '@reduxjs/toolkit';
-import API from '../../services'
+import {API} from '../../services/api'
 
 export const authSlice = createSlice({
-  name: 'sample',
+  name: 'auth',
   initialState: {
     isLoggingIn: false,
     isLoggedIn: false,
