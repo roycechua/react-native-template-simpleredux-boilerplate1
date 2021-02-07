@@ -1,4 +1,4 @@
-import {AxiosInstance as API} from './API';
+import API from './API';
 
 export default {
     API 
