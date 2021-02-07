@@ -1,1 +1,1 @@
-# react-native-template-simpleredux-boilerplate1
+# react-native-template-simpleredux-boilerplate1 
